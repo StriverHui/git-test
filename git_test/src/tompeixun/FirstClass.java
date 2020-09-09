@@ -5,9 +5,12 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("测试FirstClass");
+
     }
     public void test(){
         int i=10;
         i+=10;
+        System.out.println(i);
     }
 }
